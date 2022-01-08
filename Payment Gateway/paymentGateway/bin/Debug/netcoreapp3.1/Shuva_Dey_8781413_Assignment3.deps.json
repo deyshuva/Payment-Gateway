@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shuva_Dey_8781413_Assignment3/1.0.0": {
+        "runtime": {
+          "Shuva_Dey_8781413_Assignment3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shuva_Dey_8781413_Assignment3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
